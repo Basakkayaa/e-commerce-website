@@ -1,0 +1,71 @@
+.svg1{
+    background-image: url(/public/img/1.svg);
+    background-repeat: no-repeat;
+    padding: 10px;
+}
+
+
+.iconShop{
+    width: 400px;
+}
+
+.ocean{
+    background-image: url(/public/img/accurate-icon.svg);
+    background-repeat: no-repeat;
+    padding: 10px;
+    position: relative;
+    top: 44px;
+    left: 12px;
+}
+
+.bi-icon{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 18px;
+    color: white;
+}
+.bi-heart, .bi-basket2-fill{
+    color: white;
+}
+
+.img1{
+    background-image: url();
+    background-repeat: no-repeat;
+    padding: 98px;
+    background-size: contain;
+}
+
+.fotSvg{
+    width: 288px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 24px;
+    
+}
+
+
+.profileImg{
+    width: 50px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.bi-geo-alt-fill{
+    color: var(--bg-color);
+}
+/* .icon{
+   
+    filter: invert(1);
+} */
